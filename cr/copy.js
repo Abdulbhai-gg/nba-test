@@ -6,7 +6,7 @@ function copy1(){
 
 function copy2(){
     let copytext = document.querySelector('#copy2');
-    navigator.clipboard.writeText("http://www.cr7streams.ml/p/ncaab.html");
+    navigator.clipboard.writeText("http://www.cr7streams.ml/p/ncaab2.html");
     copytext.style.backgroundColor='red'
  }
 
