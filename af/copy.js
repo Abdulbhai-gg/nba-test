@@ -1,4 +1,8 @@
-
+function copy1(){
+    let copytext = document.querySelector('#copy1');
+    navigator.clipboard.writeText("http://streamprohd.blogspot.com/p/ncaab-1.html");
+    copytext.style.backgroundColor='red'
+ }
 
 function copy2(){
     let copytext = document.querySelector('#copy2');
