@@ -1,5 +1,5 @@
 let nhl1 = document.querySelector('#nhl1');
-nhl1.innerHTML = `<iframe src="http://cricfree.live/live/embed/stream-40" width="100%" height="100%" allowfullscreen="true" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen></iframe>`;
+nhl1.innerHTML = `<iframe src="https://daddyhd.com/embed/stream-31.php" width="100%" height="100%" allowfullscreen="true" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen></iframe>`;
 
 
 let nhl2 = document.querySelector('#nhl2');
