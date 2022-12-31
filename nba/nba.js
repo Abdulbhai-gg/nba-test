@@ -1,4 +1,4 @@
-let nba1 = document.querySelector('.nba1');
+let nba1 = document.querySelector('#nba1');
 nhl1.innerHTML = `<iframe src="http://cricfree.live/live/embed/stream-40" width="100%" height="100%" allowfullscreen="true" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowfullscreen></iframe>`;
 
 
